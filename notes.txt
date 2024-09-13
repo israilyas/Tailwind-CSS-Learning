@@ -1,0 +1,8 @@
+===== TAILWIND CSS ====
+
+=== Utility First CSS framework ====
+- pre built classes (color, font,grid,flex)
+- no pre built component like bootstrap(navbar,login form, carousel etc)
+
+npm => node package manager
+npx => node ppackage executer
